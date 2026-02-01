@@ -5,25 +5,18 @@ a quality mark for high level management required by  FIAF to contest organizati
 as legacy of contest tradition in FIAF.
 
 Should be conceded for printed and digital photo contest organized, even by or
-for third party subjects, from association applied to FIAF thath follow the 
+for third party subjects, from association applied to FIAF that follow the
 Photo Contest Rules by FIAF.
 
-## How to Ask for Patronage
+*note*: The named *Recommendation FIAF* is a "first time" patronage,
+the contest must be compliant for patronage and if the first contest run
+is completed without (great) errors, next time FIAF grant a Patronage.
 
-Mail RuleOfConbtest to [regional coordinator](https://fiaf.net/dipartimento-coordinatori-regionali/), that review and sign 
-send fee explained for patronage at [tariffario page](https://fiaf.net/tariffario/) to secretariat national
+The FIAF Patronage request must be submitted by *email with acknowledgement of receipt*
+to the FIAF Competitions Department, completing the appropriate form (see attachment) and signing it also by the Regional Coordinator
+responsible for the area. The request must be sent with a receipt at least 120 days before the deadline for submission of the works. The request for Patronage, along with all its attachments, must be copied to the
+National Secretariat.
 
-Then
+Note: the appropriate form is at address <https://fiaf.net/regolamenti-concorsi/>
 
-* mail request to [Contests Dep](dipartimento.concorsi@fiaf.net) 
-* CC to [segretatiat](segreteria@fiaf.net)
-  
-The request for FIAF Patronage must be sent by email, with acknowledgment of receipt, to the Department
-FIAF competitions, by filling out the appropriate form 
-([see attachment](https://fiaf.net/wp-content/uploads/2024/10/MODULISTICA-Richiesta-Patrocinio-Raccomandazione-per-Concorsi-nel-2025.docx) ) 
-also signed by the Regional Coordinator
-competent for the territory, by sending with receipt at least 120 days before the delivery deadline
-of the works. The request for patronage, with all its attachments, must be sent in copy to the Secretariat
-National.
-
-*n progress*
+*in progress*

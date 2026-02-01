@@ -1,6 +1,6 @@
 # photo-rules
 
-compare _Photo Contest Rules_ as defined from international and national photographic organizations.  
+Compare _Photo Contest Rules_ as defined from international and national photographic organizations.  
 A point to point explanation of contest regulation rules to build a photo contest platform.
 
 * 🇱🇺 [FIAP](./docs/LUX_FIAP.md) Fédération Internationale de l'Art Photographique
