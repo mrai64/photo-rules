@@ -5,6 +5,7 @@ A point to point explanation of contest regulation rules to build a photo contes
 
 * 🇱🇺 [FIAP](./docs/LUX_FIAP.md) Fédération Internationale de l'Art Photographique
 * 🇮🇹 [FIAF](./docs/ITA_FIAF.md) Federazione Italiana Associazioni Fotografiche
+* 🇮🇹 [UIF](./docs/ITA_UIF.md) Unione Italiana Fotoamatori
 
 Collaborate, how:  
 fork and open a folder under /docs, explain your regulation rules point to point,  
