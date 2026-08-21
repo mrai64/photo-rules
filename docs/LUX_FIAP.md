@@ -7,5 +7,5 @@ other site: <https://myfiap.net>
 lang: en, fr
 email: Ioannis Lykouris MFIAP HonEFIAP <i.lykouris@fiap.net>  
 
-Official rule contesst doc: [DOC 018/2017 E](https://www.fiap.net/upload/files/1522956599-8a60d.pdf)    
+Official rule contesst doc: [DOC 048/2025 E](https://www.myfiap.net/documents/DOC%20048_2025_E_PatronageReg.pdf)    
 <https://www.fiap.net/en/services/patronage-service/more> 
